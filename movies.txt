@@ -6,4 +6,12 @@ Moms like it big 5
 Dead Or Alive
 Gladiator
 LORD OF THE RINGS
+<<<<<<< HEAD
 American Pie 5
+=======
+<<<<<<< HEAD
+Warcraft
+=======
+typpasuga2000
+>>>>>>> 33307616cce0d54ef143be1400cd01d9e2a0ccd7
+>>>>>>> e7989f233c8f8982d408d49638a66eb64cffb2ae
