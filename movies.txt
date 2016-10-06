@@ -6,4 +6,8 @@ Moms like it big 5
 Dead Or Alive
 Gladiator
 LORD OF THE RINGS
+<<<<<<< HEAD
 Warcraft
+=======
+typpasuga2000
+>>>>>>> 33307616cce0d54ef143be1400cd01d9e2a0ccd7
